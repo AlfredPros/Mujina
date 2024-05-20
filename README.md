@@ -1,4 +1,5 @@
-# Mujina
+![Skgq4i](https://github.com/AlfredPros/Mujina/assets/28826962/5fc3a913-aa82-4d9b-b42e-8c15189ee3f8)
+
 This is a Doki Doki Literature Club fan game that is not affiliated with Team Salvato. It is designed to be played only after the official game has been completed. You can download Doki Doki Literature Club at: http://ddlc.moe
 
 Monika would like to tell you a scary story titled Mujina because she thinks it may interests you. Do you think you'd be surprised by her story?
